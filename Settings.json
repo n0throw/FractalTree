@@ -1,0 +1,14 @@
+{
+  "Dir": 3,
+  "AngelCoef": [
+    55.0
+  ],
+  "StartAngel": 0.0,
+  "StartPos": {
+    "X": 600.0,
+    "Y": 0.0
+  },
+  "Length": 300.0,
+  "LengthCoef": 0.7,
+  "MinLength": 2.0
+}
